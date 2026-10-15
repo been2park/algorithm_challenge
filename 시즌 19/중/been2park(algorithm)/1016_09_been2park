@@ -1,0 +1,13 @@
+import numpy as np
+N = int(input("양의 정수를 입력하세요:"))
+A = np.zeros(N)
+for i in range(1,N):
+    a = 0
+    append Aij[1]
+    if Aij = 1:
+        return
+    if Ai-1,j-1[0]:
+        a = a + 1
+    else:
+        return
+print(a)
